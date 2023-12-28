@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035828718524",
+    "project_id": "lab4-1-arep",
+    "storage_bucket": "lab4-1-arep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035828718524:android:992f50e7508ba27174d9b9",
+        "android_client_info": {
+          "package_name": "com.example.lab41_arep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWuoddhpbHF_PMX1KZ-SZIFtjrxgLU9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
